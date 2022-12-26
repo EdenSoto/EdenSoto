@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @EdenSoto Estudiante de Ingeniería de electrónica en la Universidad Nacional de Ingeniería
-- 👀 Con intereses en Base de Datos, Redes, Telecomunicaciones, IoT y temas afines.
-- 🌱 Estoy aprendiendo temas relacionados a IoT y Ciencias de Datos. 
+- 👀 Con intereses en Base de Cloud ,Datos, Redes, Telecomunicaciones, IoT y temas afines.
+- 🌱 Estoy aprendiendo temas relacionados a IoT,cloud y Ciencias de Datos. 
 - 📫 Mi correo eden.soto.s@uni.pe
 
 
